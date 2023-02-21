@@ -16,15 +16,13 @@ header>img+nav>ul>li*(quantidade de itens)>a
 
 pressionar tab
 
-e o programa vai devolver:
-![image](https://user-images.githubusercontent.com/104031152/220427053-89c26f1b-e6aa-4d9e-97ff-74122730aaee.png)
+e o programa vai devolver:![image](https://user-images.githubusercontent.com/104031152/220427053-89c26f1b-e6aa-4d9e-97ff-74122730aaee.png)
 
 
 
 
 
-após pressionar tab 
-![image](https://user-images.githubusercontent.com/104031152/220427210-832b5347-6e96-4b2c-be09-fb9934719567.png)
+após pressionar tab ![image](https://user-images.githubusercontent.com/104031152/220427210-832b5347-6e96-4b2c-be09-fb9934719567.png)
 
 
 
