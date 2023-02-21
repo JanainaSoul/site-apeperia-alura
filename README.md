@@ -13,11 +13,12 @@ Exemplo:
 Dentro do HEADER temos:
 
 header>img+nav>ul>li*(quantidade de itens)>a
+![image](https://user-images.githubusercontent.com/104031152/220427053-89c26f1b-e6aa-4d9e-97ff-74122730aaee.png)
+
 
 pressionar tab
 
-e o programa vai devolver:![image](https://user-images.githubusercontent.com/104031152/220427053-89c26f1b-e6aa-4d9e-97ff-74122730aaee.png)
-
+e o programa vai devolver:
 
 
 
