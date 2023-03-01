@@ -6,6 +6,7 @@ Arquivos do projeto para a Apeperia - curso da Alura : Layouts responsivos:traba
 # Linguagens
 
 HTML
+
 CSS
 
 # Aprendizados
