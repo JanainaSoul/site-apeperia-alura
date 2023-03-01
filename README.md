@@ -5,6 +5,9 @@ Arquivos do projeto para a Apeperia - curso da Alura : Layouts responsivos:traba
 
 # Linguagens
 
+HTML
+CSS
+
 # Aprendizados
 Aprendi a usar o pluggin EMMET no Sublime Text - esse plugin permite você escrever códigos de forma mais rápida:
 
