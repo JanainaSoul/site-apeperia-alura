@@ -2,6 +2,8 @@
 Arquivos do projeto para a Apeperia - curso da Alura : Layouts responsivos:trabalhando com layouts mobile
 
 # Deploy
+https://janainasoul.github.io/deploy-site-apeperia-alura/
+
 
 # Linguagens
 
